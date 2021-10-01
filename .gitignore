@@ -1,2 +1,4 @@
-test/
+testunpack/
 .idea/
+*~
+stayingalive_*.zip
